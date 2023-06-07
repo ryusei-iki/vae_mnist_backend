@@ -4,3 +4,4 @@ __pycache__
 .vscode
 Spacefile
 .spaceignore
+.DS_Store
